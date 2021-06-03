@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of knights &amp; burgesses for several counties, elected and chosen on and before Wednesday the 12 of July, to serve in the next Parliament to be held at Westminster the third of September, 1654.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88320</idno><idno type="EEBO-CITATION">99862972</idno>
+  <idno type="VID">167875</idno>
+  <idno type="EEBO-PROQUEST">2240914271</idno>
+  
+            <idno type="STC">Wing L2399</idno>
+            <idno type="STC">Thomason E805_6</idno>
+            <idno type="STC">ESTC R202799</idno>
+            <idno type="PROQUEST">99862972</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862972e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88320)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167875)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 122:E805[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of knights &amp; burgesses for several counties, elected and chosen on and before Wednesday the 12 of July, to serve in the next Parliament to be held at Westminster the third of September, 1654.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Francis Leach,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Registers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167875:1"/>
+            <p>A LIST OF Knights &amp; Burgesses FOR SEVERAL COVNTIES, Elected and Chosen on and be<g ref="char:EOLhyphen"/>fore <hi>Wednesday</hi> the 12 of <hi>July,</hi> to serve in the next PARLIAMENT to be held at <hi>Westminster</hi> the Third of <hi>September,</hi> 1654.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Francis Leach,</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list">
+            <pb facs="tcp:167875:2"/>
+            <pb n="1" facs="tcp:167875:2"/>
+            <head>A LIST of Knights &amp; Burgesses For several COUNTIES, &amp;c.</head>
+            <list>
+               <item>
+                  <hi>FOr the County of</hi> Cambridge, <hi>and the Isle of</hi> Ely 8, <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the Town of</hi> Cambridge,
+<list>
+                     <item>Alderman Tymms.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the University of</hi> Cambridg,
+<list>
+                     <item>Lord Henry Cromwell.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Isle of</hi> Ely,
+<list>
+                     <item>Mr. Secretary Thurloe,</item>
+                     <item>Mr. Clapthorne.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Cambridge,
+<list>
+                     <item>Col. Russell,</item>
+                     <item>Major Gen. Desbrow,</item>
+                     <item>Col. Robert Castle,</item>
+                     <item>Mr. Pickering.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the County</hi> of Chester,
+<list>
+                     <item>Lord Bradshaw,</item>
+                     <item>Sir George Booth,</item>
+                     <item>Mr. John Crew,</item>
+                     <item>Col. Brookes.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Cornwall 12, <hi>(viz.)</hi>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Truro.
+<list>
+                     <item>Francis Rous, Esq;</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Penryn,
+<list>
+                     <item>Capt. Fox.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Cornwall,
+<list>
+                     <item>Col. Anthony Rous,</item>
+                     <item>Col. Ceely,</item>
+                     <item>Mr. Gewen,</item>
+                     <item>Anthony Nicholls, Esq;</item>
+                     <item>Mr. Carter,</item>
+                     <item>Mr. Lance,</item>
+                     <item>Mr. Biscowen,</item>
+                     <item>John Moyle, Esq;</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Buckingham, <hi>(viz.)</hi>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Alesbury,
+<list>
+                     <item>Mr. Phillipps.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Wickham,
+<list>
+                     <item>Mr. Scott.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Bucks.
+<list>
+                     <item>Col. Ingoldesby,</item>
+                     <item>Sir Richard Piggot,</item>
+                     <item>Col. Fleetwood,</item>
+                     <item>Mr. Greenvile.</item>
+                  </list>
+               </item>
+               <pb n="2" facs="tcp:167875:3"/>
+               <item>
+                  <hi>For</hi> Reading <hi>in</hi> Barkshire.
+<list>
+                     <item>Col. Robert Hammond.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the City of</hi> Bristol,
+<list>
+                     <item>Alderman Jackson,</item>
+                     <item>Mr. Robert Aldworth.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Darby, <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the Town of</hi> Darby,
+<list>
+                     <item>Mr. Jarvice Bennet.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Darby,
+<list>
+                     <item>Col. Saunders,</item>
+                     <item>Col. Barton,</item>
+                     <item>Mr. Gill, sen.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Devon 20, <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the City of</hi> Excester,
+<list>
+                     <item>Tho. Bancfieild Esq; Recor.</item>
+                     <item>Major Gibbins.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Plymouth,
+<list>
+                     <item>Mr. Cristop. Ceely Merch.</item>
+                     <item>Mr. Wil. Yeo Town-Clerk</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Dartmouth,
+<list>
+                     <item>Clifton <hi>and</hi> Hardnesse,</item>
+                     <item>Thomas Boon Esq;</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Totnesse,
+<list>
+                     <item>Major Gen. Desbrow.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Barnstable,
+<list>
+                     <item>Mr. Doderidge.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Tyverton,
+<list>
+                     <item>Col. Shapcott.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Honyton,
+<list>
+                     <item>Sir Iohn Young.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Devon 11.
+<list>
+                     <item>Col. Rob. Rolle,</item>
+                     <item>Arthur Vpton Esq;</item>
+                     <item>Thomas Reynell Esq;</item>
+                     <item>William Morris Esq;</item>
+                     <item>John Hales Esq;</item>
+                     <item>William Bastard Esq;</item>
+                     <item>Thomas Saunders Esq;</item>
+                     <item>Col. William Fry,</item>
+                     <item>Sir John Northcott. Bar.</item>
+                     <item>Capt. Henry Hatsell,</item>
+                     <item>Iohn Quick Esq;</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Dorlet,
+<list>
+                     <item>Col. Sydenham,</item>
+                     <item>Col. Byngham,
+<list>
+                           <item>Henley,</item>
+                        </list>
+                     </item>
+                     <item>Sir Walte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Earl,</item>
+                     <item>Col F<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>z-Iames,</item>
+                     <item>Mr. Iohn Trenchard.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Durham, <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the city of</hi> Durham,
+<list>
+                     <item>Mr. Smith.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Durham,
+<list>
+                     <item>Mr. George Lilburn,</item>
+                     <item>Col. Rob. Lilburn.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Yorke, <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the City of</hi> York,
+<list>
+                     <item>Lord Com. Widdrington,</item>
+                     <item>Alderman Tho. Dickinson.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Beverley,
+<list>
+                     <item>Baron Thorp.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the West-riding,</hi>
+                  <list>
+                     <item>Thomas Lord Fairfax,</item>
+                     <item>Major Gen. Lambert,</item>
+                     <item>Col. Tempest,</item>
+                     <item>Col. Bright,</item>
+                     <item>Mr. Gell,</item>
+                     <pb n="3" facs="tcp:167875:3"/>
+                     <item>Mr. Martin.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the East-riding,</hi>
+                  <list>
+                     <item>Sir William Strickland,</item>
+                     <item>Walter Strickland, Esq;</item>
+                     <item>Col. Bethell,</item>
+                     <item>Mr. Richard Robinson.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the North-riding,</hi>
+                  <list>
+                     <item>George Lord Evers,</item>
+                     <item>Col. Francis Lassels,</item>
+                     <item>Mr. Harrison, <hi>sonne to</hi> Sir Tho. Harrison.</item>
+                     <item>Major Smithson.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Essex, <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Maldon,
+<list>
+                     <item>Col. Matthewes.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Colchester,
+<list>
+                     <item>Col. Barkstead,</item>
+                     <item>Mr. Maidston.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Essex,
+<list>
+                     <item>Sir William Massham,</item>
+                     <item>Mr. Massham, <hi>his son,</hi>
+                     </item>
+                     <item>Sir Thomas Honywood,</item>
+                     <item>Col. Cook,</item>
+                     <item>Major Haines,</item>
+                     <item>Mr. Henry Mildmay,</item>
+                     <item>Col. Mildmay,</item>
+                     <item>Sir Richard Everard, <hi>and his son-in-law</hi>
+                     </item>
+                     <item>Mr. Scott, <hi>of Scotts-hall.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Hartford,
+<list>
+                     <item>Lord President Lawrence,</item>
+                     <item>Col. Fox,</item>
+                     <item>The Earle of Salisbury,</item>
+                     <item>Sir John Whitrong,</item>
+                     <item>Sir Richard Lucy.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Huntingt. <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Huntington,
+<list>
+                     <item>Serjeant Barnard.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Huntington,
+<list>
+                     <item>Col. Mountegue,</item>
+                     <item>Mr. Pheasant,</item>
+                     <item>Mr. Henry Cromwell.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Kent, <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the City of</hi> Canterbury,
+<list>
+                     <item>Mr. Thomas Scott,</item>
+                     <item>Mr. Bourchier.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the city of</hi> Rochester,
+<list>
+                     <item>Mr. John Parker.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Port of</hi> Dover,
+<list>
+                     <item>Mr. Cullen.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Port of</hi> Sandwich,
+<list>
+                     <item>Lieut. Col. <hi>Kelsey.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Quinborow.
+<list>
+                     <item>Mr. Augustine Garland.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Kent,
+<list>
+                     <item>Sir Hen: Vane, Knight, <hi>sen.</hi>
+                     </item>
+                     <item>Mr. James,</item>
+                     <item>Mr. Silliard,</item>
+                     <item>Capt. John Boys,</item>
+                     <item>L. Col. James Oxenden,</item>
+                     <item>Col. Welden,</item>
+                     <item>Mr. Godfrey,</item>
+                     <item>Col. Beale,</item>
+                     <item>Augustine Skinner,</item>
+                     <item>Mr. Shatterden,</item>
+                     <item>Col. Dixwell.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Leicester,
+<list>
+                     <item>The Earl of Stamford,</item>
+                     <pb n="4" facs="tcp:167875:4"/>
+                     <item>Lord Grey of Grooby,</item>
+                     <item>Mr. Beaumont.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Leycester,
+<list>
+                     <item>Sir Arthur Hesilrige.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Town of great</hi> Grimsby <hi>in</hi> Lincolnshire,
+<list>
+                     <item>Sir Henry Vane jun.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Middlesex, <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the City of</hi> Westminster,
+<list>
+                     <item>Mr. Latham,</item>
+                     <item>Mr. Faulconbridge</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Middlesex,
+<list>
+                     <item>Sir. William Robert,</item>
+                     <item>Sir James Harrington,</item>
+                     <item>Mr. Josias Berners,</item>
+                     <item>Col. Harvey.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the city of</hi> London,
+<list>
+                     <item>Alderman Foot,</item>
+                     <item>Alderman Adams,</item>
+                     <item>Alderman Avery,</item>
+                     <item>Mr. Riccards,</item>
+                     <item>Mr. Recorder Steel,</item>
+                     <item>Alderman Langham.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Town of</hi> Lynn Regis,
+<list>
+                     <item>Major Gen. Skippon,</item>
+                     <item>
+                        <hi>And</hi> the Recorder of Lynn.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Town of great</hi> Yarmouth,
+<list>
+                     <item>Col. Goffe.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Northamp. <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the Town of</hi> Northampton,
+<list>
+                     <item>Mr. Whalley.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Northampton,
+<list>
+                     <item>Sir Gilbert Pickering,</item>
+                     <item>Mr. John Crew,</item>
+                     <item>Sir John Norwich,</item>
+                     <item>Sir John Drydon,</item>
+                     <item>Mr. Clapool sen.</item>
+                     <item>Col. Brooks.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Northum. <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the Town of</hi> Newcastle <hi>upon</hi> Tyne,
+<list>
+                     <item>Sir Arthur Hesilrige.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Town of</hi> Barwick <hi>upon</hi> Tweed,
+<list>
+                     <item>Col. George Fenwick.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Northumb.
+<list>
+                     <item>Mr. William Fenwick,</item>
+                     <item>Mr. Henry Ogle,</item>
+                     <item>Mr. Robert Fenwick.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Oxford, <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the City of</hi> Oxford,
+<list>
+                     <item>Lord Commis. Whitlock.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Vniversity of</hi> Oxford,
+<list>
+                     <item>Doctor Owen.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Woodstock,
+<list>
+                     <item>Lieut. Gen. Fleetwood.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Oxford,
+<list>
+                     <item>Col. Nathaniel Fines,</item>
+                     <item>Will. Lenthall Esq; late Speaker,</item>
+                     <item>Mr. Whitlock jun.</item>
+                     <item>Mr. Jenkinson.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Rutland,
+<list>
+                     <item>Mr. Horseman.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Stafford, <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the Town of</hi> Stafford,
+<list>
+                     <item>Lord Bradshaw.</item>
+                  </list>
+               </item>
+               <pb n="5" facs="tcp:167875:4"/>
+               <item>
+                  <hi>For the Bor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h of</hi> Newcastle <hi>on the</hi> Lyne.
+<list>
+                     <item>Major Gen: Harrison.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the cou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ty of</hi> Stafford,
+<list>
+                     <item>Sir Charles Woosley,</item>
+                     <item>Col. Crompton,</item>
+                     <item>Mr. Whitgrave.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Somerset, <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Taunton,
+<list>
+                     <item>Mr. Gorge, <hi>sen.</hi>
+                     </item>
+                     <item>Mr. Gorge, <hi>jun.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the city of</hi> Bath,
+<list>
+                     <item>Col. Popham.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the city of</hi> Wells,
+<list>
+                     <item>Mr. Lislebone Long.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Bridgewater,
+<list>
+                     <item>General Blake.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Somerset,
+<list>
+                     <item>Major Gen: Desbrow,</item>
+                     <item>Sir John Horner,</item>
+                     <item>Mr. John Ash,</item>
+                     <item>Mr. Buckland,</item>
+                     <item>Mr. Steynings,</item>
+                     <item>Mr. Preston,</item>
+                     <item>Mr. Jones,</item>
+                     <item>Mr. T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>omas Hippisley,</item>
+                     <item>Mr. Perry,</item>
+                     <item>Mr. Robe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Long,</item>
+                     <item>Mr. John Harrington.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Southampton, <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Town o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtsmouth,
+<list>
+                     <item>Col. Whetham.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Isle of</hi> Wight,
+<list>
+                     <item>Lord Commissioner Lisle.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Southampton,
+<list>
+                     <item>Col. Richard Cromwell,</item>
+                     <item>Col. Nortor,</item>
+                     <item>Mr. Mai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r,</item>
+                     <item>Mr. Hyld<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>sley,</item>
+                     <item>Mr. Symbarbe.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Suffolk, <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the Borough</hi> of Ipswich,
+<list>
+                     <item>Mr. Bacon, <hi>senior,</hi>
+                     </item>
+                     <item>Mr. Bacon, <hi>junior.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Bury St. Ed<g ref="char:EOLhyphen"/>monds,
+<list>
+                     <item>Mr. Moody.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Suffolk,
+<list>
+                     <item>Sir Thomas Barnardiston,</item>
+                     <item>Sir William Spring,</item>
+                     <item>Mr. Blois,</item>
+                     <item>Mr. Alex: Bence,</item>
+                     <item>Mr. Gurdon.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Surrey, <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Southwark,
+<list>
+                     <item>Col. Robert Wallcup,</item>
+                     <item>Mr. Sam: Hyland.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of</hi> Rygate,
+<list>
+                     <item>Mr. Bysh, <hi>jun.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Surrey,
+<list>
+                     <item>Maj. Gen. Lamb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rt,</item>
+                     <item>Sir Richard A<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>w,</item>
+                     <item>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Art<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ur A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>slow,</item>
+                     <item>Mr. Drake,</item>
+                     <item>C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l: Wood,</item>
+                     <item>Mr: Hollman.</item>
+                  </list>
+               </item>
+               <pb n="6" facs="tcp:167875:5"/>
+               <item>
+                  <hi>For the county of</hi> Sussex.
+<list>
+                     <item>Col. Stapley,</item>
+                     <item>Mr. Stapley,</item>
+                     <item>Sir Thomas Pelham,</item>
+                     <item>Mr. Pelham, <hi>his son.</hi>
+                     </item>
+                     <item>Sir John Dacres,</item>
+                     <item>Mr. Dacres, <hi>his son,</hi>
+                     </item>
+                     <item>Mr. Fagge,</item>
+                     <item>Mr. Hayes.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Wilts, <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>For the City of</hi> Salisbury,
+<list>
+                     <item>Mr. Tucker,</item>
+                     <item>Mr. Stevens.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the Borough of the</hi> Devizes,
+<list>
+                     <item>Mr. Bainton, <hi>son to</hi> Sir Ed<g ref="char:EOLhyphen"/>ward Bainton.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Wilts,
+<list>
+                     <item>Sir Anth: Ashley Cooper,</item>
+                     <item>Col. Popham,</item>
+                     <item>Mr. Thomas Grove,</item>
+                     <item>Mr. Thislewaite,</item>
+                     <item>Mr. Ernely,</item>
+                     <item>Mr. James Ash,</item>
+                     <item>Mr. Norden,</item>
+                     <item>Mr. Yorke,</item>
+                     <item>Mr. James Martyn,</item>
+                     <item>Mr. Francis Hollis.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Anglesey,
+<list>
+                     <item>Col. Twysleton.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Carnarvon,
+<list>
+                     <item>Serjeant Glyn,</item>
+                     <item>Col. Thomas Madrin.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Denbigh,
+<list>
+                     <item>Mr. Simon Thelwall,</item>
+                     <item>Col. John Carter,</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Flint,
+<list>
+                     <item>Mr. John Trevor.</item>
+                     <item>Col. Andrew Ellis.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Merioneth,
+<list>
+                     <item>Vaughan.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>For the county of</hi> Montgomery.
+<list>
+                     <item>Charles Lloyd,</item>
+                     <item>Col. Hugh Price.</item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
